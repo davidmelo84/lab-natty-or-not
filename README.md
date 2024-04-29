@@ -1,51 +1,41 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+#Paixão pelo IA !
+
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Salve salve galera! Tudo bem ?
+Nesse desafio da DIO eu inseri dois projetos que eu fiz na "unha" sem dar fork nos projetos existentes.
+O primeiro é um EBOOK onde eu mesclei a paixão que eu tenho pelo anime One Piece com minha paixão por JavaScript!
+Espero que se divirtam com os dois.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Navegue pelos mares da programação com JavaScript, enquanto embarca em uma aventura inspirada no épico anime One Piece. Embarque junto com Luffy, Zoro, Nami e toda a tripulação do Chapéu de Palha enquanto exploram as ilhas desconhecidas do desenvolvimento web.
+
+Neste ebook, você será apresentado ao vasto mundo de JavaScript de uma forma única e cativante. Assim como Luffy busca o One Piece, o lendário tesouro dos piratas, você explorará os segredos e tesouros escondidos por trás da linguagem de programação mais dinâmica da web.
+
+Através de exemplos práticos e desafios emocionantes, você aprenderá a dominar os conceitos fundamentais do JavaScript, desde variáveis e funções até eventos e manipulação do DOM. Junte-se à tripulação enquanto eles enfrentam desafios perigosos e inimigos formidáveis, refletindo as dificuldades e obstáculos que você encontrará em sua jornada como desenvolvedor JavaScript.
+
+Prepare-se para desvendar os mistérios dos mares da programação e se tornar um verdadeiro capitão JavaScript. Este ebook será sua bússola e seu mapa enquanto você navega pelos mares turbulentos da web, rumo a novas e emocionantes aventuras de codificação.
+
+Prepare-se para levantar as velas e zarpar em direção a um mundo de possibilidades com JavaScript e One Piece como seus guias!
+
+------------------------------------------------------------------------------------------------------
+
+Em um mundo digital onde a interatividade é essencial, jQuery e AJAX emergem como heróis da web, capacitando desenvolvedores a criar experiências dinâmicas e responsivas para os usuários. Neste artigo, exploramos a sinergia entre jQuery e AJAX, revelando os segredos por trás dessa aliança poderosa.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+>ChatGpt
+>Leornado.IA
+>Midjourney
+>PowerPoint
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Todo conteudo foi feito com as tecnologias acima utilizadas linkadas com a mão de obra humana.
+Revisões feitas por humano.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+💭 [E-BOOK] [https://github.com/davidmelo84/ebook---One-Piece-JavaScript]
+💭 [Artigo] [https://github.com/davidmelo84/Artigo-jQuery-AJAX]
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
